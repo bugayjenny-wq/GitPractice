@@ -1,3 +1,3 @@
 # GitPractice
 # Hello World!
-# Jenny L. Bugay
+### Jenny L. Bugay
